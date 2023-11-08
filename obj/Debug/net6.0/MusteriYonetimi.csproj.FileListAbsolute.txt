@@ -1,0 +1,7 @@
+C:\Users\Cüneyt\source\repos\MusteriYonetimi\MusteriYonetimi\obj\Debug\net6.0\MusteriYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cüneyt\source\repos\MusteriYonetimi\MusteriYonetimi\obj\Debug\net6.0\MusteriYonetimi.AssemblyInfoInputs.cache
+C:\Users\Cüneyt\source\repos\MusteriYonetimi\MusteriYonetimi\obj\Debug\net6.0\MusteriYonetimi.AssemblyInfo.cs
+C:\Users\Cüneyt\source\repos\MusteriYonetimi\MusteriYonetimi\obj\Debug\net6.0\MusteriYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Cüneyt\source\repos\MusteriYonetimi\MusteriYonetimi\obj\Debug\net6.0\MusteriYonetimi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cüneyt\source\repos\MusteriYonetimi\MusteriYonetimi\obj\Debug\net6.0\MusteriYonetimi.RazorAssemblyInfo.cache
+C:\Users\Cüneyt\source\repos\MusteriYonetimi\MusteriYonetimi\obj\Debug\net6.0\MusteriYonetimi.RazorAssemblyInfo.cs
